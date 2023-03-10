@@ -1,0 +1,21 @@
+{
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/lylythii/BundleFetching/main/InitialSetup.NOT.A.BUNDLE.I.SWEAR.json",
+			"folder": "config/mod-director",
+			"fileName": "InitialSetup.bundle.json",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/lylythii/BundleFetching/main/InitialSetup.ALSO.NOT.A.BUNDLE.I.SWEAR.json",
+			"folder": "config/mod-director",
+			"fileName": "InitialSetupTwo.bundle.json",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		}
+	]
+}
