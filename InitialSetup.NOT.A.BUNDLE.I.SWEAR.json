@@ -1,0 +1,19 @@
+{
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge._LF_.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.CORE.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		}
+	]
+}
